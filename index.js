@@ -14,7 +14,7 @@ server.get("test",function (req, res, next) {
 });
 server.listen(8766, function(){
     process.send({ foo: 'bar3' });
-}
+});
 
 
 
