@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a083bae-bf25-48e8-8965-43c73c342b8d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
     </list>
     <ignored path="experiments_ci.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +36,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.07042254">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.39893618">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -82,10 +82,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1463" />
-    <option name="y" value="53" />
+    <option name="x" value="1475" />
+    <option name="y" value="239" />
     <option name="width" value="1090" />
-    <option name="height" value="364" />
+    <option name="height" value="715" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -194,7 +194,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1463" y="53" width="1090" height="364" extended-state="0" />
+    <frame x="1475" y="239" width="1090" height="715" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22477064" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -258,8 +258,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07042254">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.39893618">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding />
         </state>
       </provider>
