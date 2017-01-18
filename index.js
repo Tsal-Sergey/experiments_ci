@@ -13,7 +13,7 @@ server.get("test",function (req, res, next) {
     next();
 });
 api.server.listen(8766, function(){
-    process.send({ foo: 'bar2' });
+    process.send({ foo: 'bar3' });
 }
 
 
