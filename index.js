@@ -12,7 +12,7 @@ server.get("test",function (req, res, next) {
     res.json({"prop":"val"});
     next();
 });
-api.server.listen(8766, function(){
+server.listen(8766, function(){
     process.send({ foo: 'bar3' });
 }
 
