@@ -9,7 +9,7 @@ server.use(restify.bodyParser());
 server.use(restify.queryParser());
 
 server.get("test",function (req, res, next) {
-    res.json({"prop":"val28"});
+    res.json({"prop":"val29"});
     next();
     next();
 });
