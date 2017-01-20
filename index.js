@@ -9,11 +9,11 @@ server.use(restify.bodyParser());
 server.use(restify.queryParser());
 
 server.get("test",function (req, res, next) {
-    res.json({"prop":"val43"});
+    res.json({"prop":"val44"});
     next();
 });
 server.listen(8766, function(){
-    process.send({ foo: 'bar43' });
+    process.send({ foo: 'bar44' });
 });
 
 
