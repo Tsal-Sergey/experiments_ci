@@ -8,8 +8,8 @@ server.use(restify.fullResponse());
 server.use(restify.bodyParser());
 server.use(restify.queryParser());
 
-server.get("test",function (req, res, next) {
-    res.json({"prop":"test1"});
+server.get("test1",function (req, res, next) {
+    res.json({"prop":"test2"});
     next();
 });
 server.listen(8766, function(){
