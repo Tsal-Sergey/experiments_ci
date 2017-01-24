@@ -9,14 +9,13 @@ server.use(restify.bodyParser());
 server.use(restify.queryParser());
 
 server.get("test",function (req, res, next) {
-    res.json({"prop":"val0039"});
+    res.json({"prop":"val0041"});
     next();
 });
 server.listen(8766, function(){
-    process.send({ foo: 'bar0040' });
+    process.send({ foo: 'bar0041' });
     //head_commit.url
 });
-
 
 
 
