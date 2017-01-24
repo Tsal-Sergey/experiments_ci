@@ -8,7 +8,7 @@ server.use(restify.fullResponse());
 server.use(restify.bodyParser());
 server.use(restify.queryParser());
 
-server.get("test1",function (req, res, next) {
+server.get("test",function (req, res, next) {
     res.json({"prop":"test1"});
     next();
 });
