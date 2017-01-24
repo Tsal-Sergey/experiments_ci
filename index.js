@@ -13,7 +13,7 @@ server.get("test",function (req, res, next) {
     next();
 });
 server.listen(8766, function(){
-    process.send({ foo: 'bar0026' });
+    process.send({ foo: 'bar0027' });
     //head_commit.url
 });
 
